@@ -1,24 +1,13 @@
-# README
+# Rails Stripe Store
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic example of a store built on Ruby on Rails and integrated with Stripe for payment processing. 
 
-Things you may want to cover:
+The functionality allows the user to buy pictures on wind turbines, which are hosted on AWS.
 
-* Ruby version
+Gems include Rails-Stripe, Active_Admin, and PG. 
 
-* System dependencies
+## Things to do
 
-* Configuration
+Add in subscription, more products, and sort the design out. Although the basics are done to be honest. This is more about getting Stripe working than anything else. 
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
