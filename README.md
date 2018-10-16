@@ -4,7 +4,9 @@ This is a basic example of a store built on Ruby on Rails and integrated with St
 
 The functionality allows the user to buy pictures on wind turbines, which are hosted on AWS.
 
-Gems include Rails-Stripe, Active_Admin, and PG. 
+Gems include Rails-Stripe, Active_Admin, and PG. It also uses Sendgrid to send out verification emails. 
+
+It is installed on Heroku and u
 
 ## Things to do
 
